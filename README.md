@@ -56,6 +56,8 @@ for epoch in range(10):
     optimizer.step()
 
     print(f'Epoch {epoch + 1}, Loss: {loss.item()}')
+
+
 參數
 lr (float): 學習率，默認為 1e-3。
 betas (tuple[float, float]): 用於計算梯度和梯度平方的指數衰減率，默認為 (0.9, 0.999)。
