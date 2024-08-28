@@ -73,7 +73,7 @@ lr_decay_factor (float): 學習率衰減因子，默認為 0.1。
 歡迎對 SparseMemoryEfficientAdam 進行貢獻！如果你有任何問題或建議，請提交 Issue 或 Pull Request。
 
 許可證
-本項目採用 MIT 許可證。詳見 LICENSE 文件。
+本項目採用 Apache-2.0 許可證。詳見 LICENSE 文件。
 
 聯繫
-如果你有任何問題或建議，請聯繫 yourusername。
+如果你有任何問題或建議，請聯繫 win10ogod。
