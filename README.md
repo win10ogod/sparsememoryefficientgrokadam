@@ -1,6 +1,6 @@
-# SparseMemoryEfficientAdam
+# SparseMemoryEfficientGrokAdam
 
-`SparseMemoryEfficientAdam` 是一個基於 Adam 優化器的記憶體友好且稀疏的優化器。它結合了自動預熱試探法和長期學習速率緩衝，並且在每次迭代中只更新一部分參數，以減少計算量和記憶體占用，從而加快訓練速度。
+`SparseMemoryEfficientGrokAdam` 是一個基於 Adam 優化器的記憶體友好且稀疏的優化器。它結合了自動預熱試探法和長期學習速率緩衝，並且在每次迭代中只更新一部分參數，以減少計算量和記憶體占用，從而加快訓練速度。
 
 ## 特點
 
