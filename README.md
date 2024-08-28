@@ -15,8 +15,8 @@
 目前，`SparseMemoryEfficientAdam` 可以直接從 GitHub 克隆並使用。未來我們計劃將其發布到 PyPI。
 
 ```bash
-git clone https://github.com/yourusername/SparseMemoryEfficientAdam.git
-cd SparseMemoryEfficientAdam
+git clone https://github.com/win10ogod/sparsememoryefficientgrokadam.git
+cd sparsememoryefficientgrokadam
 使用方法
 以下是如何在你的 PyTorch 項目中使用 SparseMemoryEfficientAdam 的示例：
 
